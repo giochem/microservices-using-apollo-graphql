@@ -22,7 +22,7 @@ Admin [https://github.com/giochem/flyby-admin](https://github.com/giochem/flyby-
 
 ## Diagram
 A diagram of the architecture is shown below.
-![]()
+![https://github.com/giochem/microservices-using-apollo-graphql/blob/main/Diagram.png](https://github.com/giochem/microservices-using-apollo-graphql/blob/main/Diagram.png)
 ## Deploy:
 
 + Vercel: Client
