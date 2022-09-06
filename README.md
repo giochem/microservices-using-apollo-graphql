@@ -20,6 +20,9 @@ Admin [https://github.com/giochem/flyby-admin](https://github.com/giochem/flyby-
 
 ### Mongodb is used as the database
 
+## Diagram
+A diagram of the architecture is shown below.
+![]()
 ## Deploy:
 
 + Vercel: Client
